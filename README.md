@@ -1,7 +1,7 @@
 # swipeit
 javascript plugin  for detecting mobile swiping
 
-#usage
+# usage
 
 ```
 var sw=new swipeit('body');
